@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.ChatApp" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#536DFE</item>
+        <item name="colorPrimaryDark">#536DFE</item>
+        <item name="colorAccent">#F44336</item>
+        <!-- Status bar color. -->
+
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
